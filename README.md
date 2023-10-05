@@ -30,7 +30,7 @@ to withdraw money,deposit.
 ![image](https://github.com/DEVADARSHAN2/LAB-1-ATM/assets/119432150/f24b29a3-6f55-4fb0-b463-2e728bcaf9df)
 ### Communication Diagram:
 ![image](https://github.com/DEVADARSHAN2/LAB-1-ATM/assets/119432150/4bb67fd2-60e9-434e-92bd-ee804754deee)
-### Package:
+### Package Diagram:
 ![image](https://github.com/DEVADARSHAN2/LAB-1-ATM/assets/119432150/a1efad82-43f5-41d9-a93f-d908aba8090f)
 
 ### RESULT: 
